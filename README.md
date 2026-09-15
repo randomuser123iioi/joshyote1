@@ -1,37 +1,32 @@
-software developer focused on building tools, automation, and data-driven applications.
+<p align="center">
+  <img src="banner.png" width="100%" alt="Josh Yote Banner">
+</p>
 
-currently studying computer science and working on projects across web development, infrastructure, and emerging technologies.
+# Josh Yote
+
+Software developer and computer science student focused on building tools, automation, and data-driven applications.
+
+Currently working on projects across web development, infrastructure, backend systems, and emerging technologies.
 
 ---
 
-#### currently
+## currently
+
 - building full-stack applications
 - working with APIs, automation, and real-time data
 - exploring distributed systems and blockchain infrastructure
 - improving systems programming and backend development
 - contributing to open-source projects
 
-#### areas of interest
-- software engineering
-- backend systems
-- developer tooling
-- data infrastructure
-- automation
-- distributed systems
-- artificial intelligence
 
-#### technologies
-- Java
-- Python
-- JavaScript / TypeScript
-- C
-- Node.js
-- Git / GitHub
-- Linux
-- REST APIs
+## technologies
+
+`Java` `Python` `JavaScript` `TypeScript` `C` `Node.js` `Git` `Linux` `REST APIs`
 
 ---
 
-**always building, learning, and shipping.**
 
-open to collaborating on interesting software projects and open-source work.
+
+**building, learning, and shipping.**
+
+Open to collaborating on interesting software and open-source projects.
