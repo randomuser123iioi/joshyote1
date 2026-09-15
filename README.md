@@ -4,9 +4,7 @@
 
 # Josh Yote
 
-Software developer and computer science student focused on building tools, automation, and data-driven applications.
-
-Currently working on projects across web development, infrastructure, backend systems, and emerging technologies.
+big week ahead.
 
 ---
 
